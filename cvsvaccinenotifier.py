@@ -1,8 +1,4 @@
-import requests
-import json
 import time
-import os
-import re
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 from urllib.request import urlopen as uReq
