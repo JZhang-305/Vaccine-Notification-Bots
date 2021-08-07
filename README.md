@@ -3,4 +3,4 @@ This repository contains some of the Python scripts I wrote in March 2020 to twe
 
 
 
-NOTE: To replicate, you must download [Chromedriver](https://chromedriver.chromium.org/) and fill in your own Twitter Developer API keys. Also, [cvs-vaccine-bot.py](cvs-vaccine-bot.py) cannot be used anymore because of changes to CVS website, however [ct-vaccine-bot.py](ct-vaccine-bot.py) can still be used as of Aug 2021. The final bot, [us-messaging-system.py](us-messaging-system.py) sends Direct Messages to subscribers instead of tweets, but was never released due to message limits and limited options of communication.
+NOTE: To replicate, you must download [Chromedriver](https://chromedriver.chromium.org/) and fill in your own Twitter Developer API keys. Also, [cvs-vaccine-bot.py](cvs-vaccine-bot.py) cannot be used anymore because of changes to CVS website, however [ct-vaccine-bot.py](ct-vaccine-bot.py) can still be used as of Aug 2021. The final bot, [us-messaging-system.py](us-messaging-system.py) sends emails to subscribers instead of tweets, but was never released due to quantity limits and limited options of communication.
