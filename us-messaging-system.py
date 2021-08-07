@@ -1,4 +1,4 @@
-# Note: This bot was never released because of issues with Twitter's messaging system and was scrapped since vaccine availability was no longer an issue
+# Note: This bot was never released because of issues with Mailgun API and was scrapped in May 2020 since vaccine availability was no longer an issue
 
 
 import requests
