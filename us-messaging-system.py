@@ -1,3 +1,6 @@
+# Note: This bot was never released because of issues with Twitter's messaging system and was scrapped since vaccine availability was no longer an issue
+
+
 import requests
 from time import sleep
 from datetime import datetime
